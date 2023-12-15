@@ -1,7 +1,9 @@
-### Hi there 👋
+
 
 <!--
 **eleite98/eleite98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -21,8 +23,8 @@ Here are some ideas to get you started:
 
 - Hi, I’m Eduardo
 - I’m interested in ... 
-- I’m currently learning ...  programming skills, from front-end to back-end!
-- How to reach me ... Just look for my https://www.linkedin.com/in/eduardoleite98/
+- I’m currently learning programming skills, from front-end to back-end!
+- How to reach me - Just look for my https://www.linkedin.com/in/eduardoleite98/
 <!---
 chibi-affm/chibi-affm is a :brilhos: special :brilhos: repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
