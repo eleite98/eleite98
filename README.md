@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - Hi, I’m Eduardo
 - I’m interested in ... 
-- I’m currently learning programming skills, from front-end to back-end!
+- I’m currently learning programming skills, from front-end to back-end @Code for All_!
 - How to reach me - Just look for my https://www.linkedin.com/in/eduardoleite98/
 <!---
 chibi-affm/chibi-affm is a :brilhos: special :brilhos: repository because its `README.md` (this file) appears on your GitHub profile.
