@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 # Eduardo Leite
 
-- Hi, I’m Eduardo
-- I’m interested in ... 
+- Hi, I’m Eduardo Leite! 
 - I’m currently learning programming skills, from front-end to back-end @Code for All_!
 - How to reach me - Just look for my https://www.linkedin.com/in/eduardoleite98/
 <!---
