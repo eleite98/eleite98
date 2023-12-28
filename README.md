@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+# Hi there 👋
 
-## I'm Eduardo Leite!
+# My name is Eduardo Leite!
 
 - 🌱 I’m currently learning programming skills, from front-end to back-end!
 - 📫 How to reach me - Just look for my https://www.linkedin.com/in/eduardoleite98/
