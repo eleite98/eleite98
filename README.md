@@ -4,7 +4,7 @@
 🌱 I’m currently learning **programming skills, from front-end to back-end!**
 
 ## 📫 Connect with me:
-I'm always open to collaboration and networking. Feel free to reach out to me on <a align="center" href="https://linkedin.com/in/eduardoleite98/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> or <a align="center" href="mailto:eduardo_leite98@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Email&logoColor=white"></a>
+Feel free to reach out to me on <a align="center" href="https://linkedin.com/in/eduardoleite98/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> or <a align="center" href="mailto:eduardo_leite98@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Email&logoColor=white"></a>
 
 ## 💻 Tech
 - **Languages:**
@@ -23,4 +23,4 @@ I'm always open to collaboration and networking. Feel free to reach out to me on
   <h3>
         <img src="https://skillicons.dev/icons?i=maven,git,github,idea,vscode,vim" />
   </h3>
-- **Full Stack:** Frontend to Backend development
+
