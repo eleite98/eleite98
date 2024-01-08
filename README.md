@@ -6,7 +6,7 @@
 ## 📫 Connect with me:
 Feel free to reach out to me on <a align="center" href="https://linkedin.com/in/eduardoleite98/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> or <a align="center" href="mailto:eduardo_leite98@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Email&logoColor=white"></a>
 
-## 💻 Tech
+## 💻 Tech Stack:
 - **Languages:**
   <h3>
      <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="git" />
