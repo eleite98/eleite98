@@ -23,7 +23,7 @@ Feel free to reach out to me on <a align="center" href="https://linkedin.com/in/
   <h3>
         <img src="https://skillicons.dev/icons?i=maven,git,github,idea,vscode,vim,postman" />
   </h3>
-  - **Currently Learning:**
+ - **Currently Learning:**
   <h3>
      <img src="https://skillicons.dev/icons?i=react" alt="git" />
   </h3>
