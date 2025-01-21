@@ -13,7 +13,7 @@ Feel free to reach out to me on <a align="center" href="https://linkedin.com/in/
   </h3>
 - **Frameworks:**
   <h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,spring,hibernate,vue" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,spring,hibernate" />
   </h3>
 - **Database:**
   <h3>
@@ -25,6 +25,6 @@ Feel free to reach out to me on <a align="center" href="https://linkedin.com/in/
   </h3>
  - **Currently Learning:**
   <h3>
-        <img src="https://skillicons.dev/icons?i=react" alt="git" />
+        <img src="https://skillicons.dev/icons?i=react,vue" />
   </h3>
 
